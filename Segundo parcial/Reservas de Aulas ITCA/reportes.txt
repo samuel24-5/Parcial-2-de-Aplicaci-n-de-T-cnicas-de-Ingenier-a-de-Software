@@ -1,0 +1,15 @@
+=== REPORTE DE RESERVAS ITCA ===
+Generado: 2025-10-19
+
+TOP 3 AULAS CON MÁS HORAS RESERVADAS:
+  F308 - Aula Teorica 2: 4 horas
+  F207 - Aula Para Eventos 1: 2 horas
+  F306 - Aula Teorica 1: 2 horas
+
+OCUPACIÓN POR TIPO DE AULA:
+  TEORICA: 6 horas
+  AUDITORIO: 2 horas
+
+DISTRIBUCIÓN POR TIPO DE RESERVA:
+  CLASE: 2 reservas (66.7%)
+  EVENTO: 1 reservas (33.3%)
